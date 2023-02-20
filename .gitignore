@@ -1,4 +1,6 @@
 BuberBreakfast/BuberBreakfast/bin
-BuberBreakfast/BuberBreakfast/obj/Debug
+BuberBreakfast/BuberBreakfast/obj
 BuberBreakfast/BuberBreakfast.Contracts/bin
-BuberBreakfast/BuberBreakfast.Contracts/obj/Debug
+BuberBreakfast/BuberBreakfast.Contracts/obj
+$tf/
+.vs/
